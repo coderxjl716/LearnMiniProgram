@@ -1,0 +1,4 @@
+/* pages/home/home.wxss */
+.t1 {
+  font-size: 2rem;
+}
